@@ -55,7 +55,7 @@ body {
 .hero {
     height: 100vh;
     background: linear-gradient(rgba(52, 73, 94, 0.9), rgba(52, 73, 94, 0.9)),
-                url('https://github.com/aroycenirangeorge/Portfolio/blob/main/attachments/background_image.jpg');
+                url('https://raw.githubusercontent.com/aroycenirangeorge/Portfolio/refs/heads/main/attachments/background_image.jpg');
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
